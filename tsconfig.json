@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "moduleResolution": "Node",
+    "module": "ESNext",
+    "lib": ["dom", "dom.iterable", "esnext"],
+  },
+  "include": [
+    "src"
+  ],
+}
