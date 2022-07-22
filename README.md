@@ -1,1 +1,1 @@
-# react-webpack
+# Simple react with webpack configurations
